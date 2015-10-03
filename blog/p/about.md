@@ -1,0 +1,18 @@
+关于
+----
+
+欢迎到访我的博客,本博客主要用来记录我技术成长以及生活点滴。
+
+爱生活，爱技术，爱运动
+
+大学即将毕业，特地附上个人简历
+
+* [简历](https://github.com/huangxiankui/huangxiankui.github.io/blob/master/黄先奎个人简历.pdf)
+
+
+联系方式
+------
+* Phone: 15088132354
+* Email: 15088133707@163.com
+* GitHub: [@huangxiankui](https://github.com/huangxiankui)
+* 新浪微博: [@码农的果园长土豆](http://weibo.com/2948414005/profile?rightmod=1&wvr=6&mod=personinfo)

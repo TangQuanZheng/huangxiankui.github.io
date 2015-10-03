@@ -1,0 +1,3 @@
+
+[Weibo](http://weibo.com/2948414005/profile?rightmod=1&wvr=6&mod=personinfo) | [GitHub](https://github.com/huangxiankui)  
+©  2012-2015 [hxk](https://huangxiankui.github.io/blog/index.html?about.md) Powered By hxk(https://github.com/huangxiankui)  
