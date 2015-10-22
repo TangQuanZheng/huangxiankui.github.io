@@ -5,10 +5,8 @@ Blog
 Android
 ----
 
+- [2015/10/19-andoid笔试面试要点总结](android/android面试笔试.md)
 
-- [2015-06-22-JavaScript中的全局变量与局部变量](__P__/tech/JavaScript/2015-06-22-JavaScript中的全局变量与局部变量.md)
-- [2015-06-11-青青荷塘](2015/2015-06-11-青青荷塘.md)
-- [2222](2015/1.md)
 
 
 Unity3D
