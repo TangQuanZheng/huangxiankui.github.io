@@ -5,7 +5,7 @@ Blog
 Android
 ----
 
-- [***andoid笔试面试要点总结***-2015/10/19](2015/android笔试面试.md)
+- [***andoid笔试面试要点总结***-2015/10/19](android/android笔试面试.md)
 
 
 
