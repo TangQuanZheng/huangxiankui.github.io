@@ -8,7 +8,7 @@
 大学即将毕业，特地附上个人简历
 
 * [简历](https://github.com/huangxiankui/huangxiankui.github.io/blob/master/黄先奎个人简历.pdf)
-
+* [Resume](diaries/android/黄先奎简历.md)
 
 联系方式
 ------
