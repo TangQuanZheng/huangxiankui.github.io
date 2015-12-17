@@ -5,7 +5,7 @@
 ---
 欢迎到访我的博客,本博客主要用来记录我技术成长以及生活点滴。
 爱生活，爱技术，爱运动
-大学毕业简历    [简历pdf](https://github.com/huangxiankui/huangxiankui.github.io/blob/master/黄先奎个人简历.pdf)
+野生型程序猿  大学毕业简历    [简历pdf](https://github.com/huangxiankui/huangxiankui.github.io/blob/master/黄先奎个人简历.pdf)
 
 
 ---
@@ -19,7 +19,7 @@
 ***
 ####开发语言
 
-有良好的Java基础，熟练掌握面向对象思想。了解PHP   C，C# 涉猎 JavaScript  , HTML , C++
+有良好的Java基础，熟练掌握面向对象思想。了解PHP Python  C，C# 涉猎 JavaScript  , HTML , C++
 
 ####设计模式
 了解常用的设计模式
@@ -57,7 +57,10 @@ Git、SVN
 - 2014年12月 获得校第十四届信息技术应用大赛三等奖
 
 ---
+##教育经历  
+2012/09~2016/06   五邑大学/本科/交通工程（交通控制与管理） NCRE（Java、C）2级
 
+---
 ##学生工作 
 - 大学一年级担任信息工程学院学生会学习部委员，荣获“优秀委员”、“优秀学生干部”等称号。
 - 大学二年级担任学生会**学习部负责人**，组织策划校级“飞思卡尔”比赛以及校级辩论赛等大型活动。
