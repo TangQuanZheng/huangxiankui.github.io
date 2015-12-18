@@ -2,7 +2,7 @@
 
 # [HXK](.)
 
->Happy Life&Learn
+>¿ìÀÖ Life&Learn
 
 - [Blog](diaries/index.md)
 - [Collect](tech/index.md)
