@@ -23,7 +23,7 @@ Blog
 
 ##嵌入式驱动
 ----
-
+- [***Android.mk详解***——2014/10/25](ARM/Android.mk详解.md)
 
 
 ##Python

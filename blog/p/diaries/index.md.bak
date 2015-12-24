@@ -2,52 +2,56 @@ Blog
 --------
 > 思考 反省 总结 学习
 
-Android
+##Android
 ----
 - [***Web Apps***——2015/10/25](android/WebApps.md)
 - [***andoid笔试面试要点总结***——2015/10/19](android/android笔试面试.md)
+- [***android 蓝牙控制继电器——手机客户端的实现***——2013/12/01](android/android蓝牙控制继电器——手机客户端的实现.md)
+- [***android 蓝牙控制继电器——单片机控制端***——2013/12/01](android/android蓝牙控制继电器——单片机控制端.md)
 
-Android框架层
+
+
+##Android框架层
 ----
 - [***Android线程间通信机制（ITC详解）***——2015/12/15](android/Android 线程间通信机制（ITC详解）/Android 线程间通信机制（ITC详解）.md)
 
 
-Unity3D
+##Unity3D
+---
+
+
+
+##嵌入式驱动
 ----
 
 
 
-嵌入式驱动
+##Python
 ----
 
 
 
-Python
+##php
 ----
 
 
 
-php
+##Java
 ----
 
 
 
-Java
+##Code
 ----
 
 
 
-Code
+##Web
 ----
 
 
 
-Web
-----
-
-
-
-C系列
+##C系列
 ----
 
 
