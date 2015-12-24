@@ -1,11 +1,11 @@
-![avatar](http://huangxiankui.3vzhuji.net/6.jpg)
+![avatar](https://huangxiankui.github.io/2.jpg)
 
 # [HXK](https://huangxiankui.github.io/blog/)
 
-####Happy Life&Learn
+>Happy Life&Learn
 
- [Blog](diaries/index.md)
- [Software](tech/index.md)
- [Plan](notes/readme.md)
- [Life](library/index.md)
- [About](about.md)
+ - [Blog](diaries/index.md)
+ - [Software](tech/index.md)
+ - [Plan](notes/readme.md)
+ - [¸ÐÎò](library/index.md)
+ - [About](about.md))
