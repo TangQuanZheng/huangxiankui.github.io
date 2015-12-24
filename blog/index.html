@@ -5,7 +5,7 @@
     <title>飞奔的蜗牛 Blog</title>
     <!-- responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-
+     <link rel="stylesheet" href="vendor/highlight/styles/github.css">
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
@@ -49,6 +49,22 @@ var _hmt = _hmt || [];
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
+
+      //blog.js
+function init() {
+    read_config(function() {
+        load('#sidebar-page', 'sidebar.md', true);
+
+        if (cur_md_path === '') {
+            load('#main-page', 'home.md');
+            console.log("load main~");
+            //多说评论,若想不在首页显示评论框 那么：取消这一句注释
+            //$('.ds-thread').removeClass('ds-thread');
+        }
+    });
+}
+
+
 var duoshuoQuery = {short_name:"hxk"};
 	(function() {
 		var ds = document.createElement('script');
