@@ -5,13 +5,13 @@
 ---
 欢迎到访我的博客,本博客主要用来记录我技术成长以及生活点滴。
 爱生活，爱技术，爱运动
-野生型程序猿  大学毕业简历pdf版    [简历](https://github.com/huangxiankui/huangxiankui.github.io/blob/master/黄先奎个人简历.pdf)
+野生型程序猿  大学毕业简历 
 
 
 ---
 ####男|现居地 广东江门      
 ####    GitHub: [huangxiankui](https://github.com/huangxiankui)                    
-####    Phone：15088133707  
+####    Phone：150****3707  
 ####    mail：15088133707@163.com
 
 ---
